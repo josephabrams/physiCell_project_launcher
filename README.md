@@ -6,8 +6,10 @@ Prototype project loader for PhysiCell
 install into PhysiCell main directory
 
 Uses the built in Make Reset and then swaps the files from a projects directory
-Run python Projects.py <project_name> to switch projects
-all projects will be stored in ./projects directory
+- In terminal: $python Projects.py <project_name> 
+
+- switch projects or create new project
+- projects will be stored in ./projects directory
 - [ ] **TO DO**: make these backup the current files on switch
 
 - The projects directory is created on first run if a new project is created
