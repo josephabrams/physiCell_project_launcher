@@ -1,7 +1,9 @@
 # PhysiCell_project_launcher
 Warning!! Experimental Prototype backup your directory!!
 !! No safety has been added yet!!
-
+- Some safety now, currently uses make zip
+- now works with 'sample_projects/template' when making new project
+- 
 Prototype project loader for PhysiCell
 install into PhysiCell main directory
 
